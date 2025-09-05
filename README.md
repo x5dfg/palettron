@@ -2,10 +2,10 @@
 
 ## Установка и запуск
 
-### Скачивание:
+### Клонировать:
 
 ```
-git clone https://github.com/x5dfg/milkbot.git
+git clone https://github.com/x5dfg/palettron.git
 ```
 >[!WARNING]
 >Обязательно убедитесь что вы указали токен для бота в `bot.py` в переменной `API_TOKEN`
@@ -34,4 +34,5 @@ docker run --name milkbot1 --restart unless-stopped mlkimage
   },
   ...
 ]
+
 ```
